@@ -1,0 +1,29 @@
+body{
+text-align:center;
+      background:url(https://data.whicdn.com/images/90384485/original.jpg);
+    font-style: italic;
+}
+h1{
+     text-align: center;
+  width: 500px;
+  border: 10px dotted white;
+  padding: 40px;
+  margin: 30px;
+   background-color: tan;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-style: normal;
+     border: 5px dotted white;
+background-color: tan;
+    
+}
+p{
+    text-align: center;
+    color: black;
+    font-style: normal;
+     border: 5px dotted white;
+background-color: tan;
+    
+}
